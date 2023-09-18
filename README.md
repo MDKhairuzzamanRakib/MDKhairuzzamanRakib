@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JavaScript, SQL, C#, ASP.net**
 
-- 💬 Ask me about **Web Design anf Development.**
+- 💬 Ask me about **Web Design and Development.**
 
 - 📫 How to reach me **khairuzzamanrakib153@gmail.com**
 

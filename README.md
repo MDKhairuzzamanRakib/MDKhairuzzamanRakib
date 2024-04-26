@@ -22,13 +22,12 @@
 - ⚡ Fun fact **Yeah, Love to Smiling Person**
 
  <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 
 ## 🌐 Socials:

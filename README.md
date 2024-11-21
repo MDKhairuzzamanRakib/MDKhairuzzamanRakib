@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&color=36ECF7&width=435&lines=Hey!!+I'm+Khairuzzaman;ASP.NET+Developer;Full-Stack+Developer)](https://git.io/typing-svg)
 
-![MasterHead](https://media.licdn.com/dms/image/C5616AQH1G9wL7GuvVw/profile-displaybackgroundimage-shrink_350_1400/0/1651084384551?e=1717027200&v=beta&t=y7q53RYujcJzhkzFp5Hx2v_gbTkC-5B_K7I_Hf_gJm4) 
+
 
 
 
@@ -54,5 +54,3 @@
 
 
 
-### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
